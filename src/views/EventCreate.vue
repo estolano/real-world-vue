@@ -1,15 +1,11 @@
 <template>
   <div>
-<h4>Create</h4>
+    <h1>EVentCreate, {{ $store.state.user }}</h1>
   </div>
 </template>
 
 <script>
-  export default {
-    
-  }
+export default {}
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
