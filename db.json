@@ -220,16 +220,112 @@
       "id": 10,
       "category": "animal welfare",
       "organizer": {
-        "user": {
-          "id": "abc123",
-          "name": "Adam Jahr"
-        }
+        "id": "abc123",
+        "name": "Adam Jahr"
       },
       "title": "Gregg's Event",
       "description": "We'll do stuff",
       "location": "Your House",
       "date": "",
       "time": "5:00",
+      "attendees": []
+    },
+    {
+      "id": 2163228,
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "sdsdsdsdsads",
+      "description": "sddsdsad",
+      "location": "adsdsadasd",
+      "date": "2019-02-14T19:50:00.000Z",
+      "time": "11:00",
+      "attendees": []
+    },
+    {
+      "id": 9872255,
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "o anslemo quer que tenha nome diferente",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 3835270,
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "eeeeeee",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 3312568,
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "oooooooo",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 418378,
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "eeeeeerrrr",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 4819375,
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "yyyy",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 7396512,
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "rrrrrr",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
       "attendees": []
     }
   ]
