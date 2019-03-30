@@ -327,6 +327,34 @@
       "date": "",
       "time": "",
       "attendees": []
+    },
+    {
+      "id": 9514708,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "testa",
+      "description": "aqui",
+      "location": "",
+      "date": "",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 3731068,
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "111",
+      "description": "111",
+      "location": "111",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
